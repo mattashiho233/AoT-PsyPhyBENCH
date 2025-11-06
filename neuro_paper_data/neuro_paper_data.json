@@ -1,0 +1,6362 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00297_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00350.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00022.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00335_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00321_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00156_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00012.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00290_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00206_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00062_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00319.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00087.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00035_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00135.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00172_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00036_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00043.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00060_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00159.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00144_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00023.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00206.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00194.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00267.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00233_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00179_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00132_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00272.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00229.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00109_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00226.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00020.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00246.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00293_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00091.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00023_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00252_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00030.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00209_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00354_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00082.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00130_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00054_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00051.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00098.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00184.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00091_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00278_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00140_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00171.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00073.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00048_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00120_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00332_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00043_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00022_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00050_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00013.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00333_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00101_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00158_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00117_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00104_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00219_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00331.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00125.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00070.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00237.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00118.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00131.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00028_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00174.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00283.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00292_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00079_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00253_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00196.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00262_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00155_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00333.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00205.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00061_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00115_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00312_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00103.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00159_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00237_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00281_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00192.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00228_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00239.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00285_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00250.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00081_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00217_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00005_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00289_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00172.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00177_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00030_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00081.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00202.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00318.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00356.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00185_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00183_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00350_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00054.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00011_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00279_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00100_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00180.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00059.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00042.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00037.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00183.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00041.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00202_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00070_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00180_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00018.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00231_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00133.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00295_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00255.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00246_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00088_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00348.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00049.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00153_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00285.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00229_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00329_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00014.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00310_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00196_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00337.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00020_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00315.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00027.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00132.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00143_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00335.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00204_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00076.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00253.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00186.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00283_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00226_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00267_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00316.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00072.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00352_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00277_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00214.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00058.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00284_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00042_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00035.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00247_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00334_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00135_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00244_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00108.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00173.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00248_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00223.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00178.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00173_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00218_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00158.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00341.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00057.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00209.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00273_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00201_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00076_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00258_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00120.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00157.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00260_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00231.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00186_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00297.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00068_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00194_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00269_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00116_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00355_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00162.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00303.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00176.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00268.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00100.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00142.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00201.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00222_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00303_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00012_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00014_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00304.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00360_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00327_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00204.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00232_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00223_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00102.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00170.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00247.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00184_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00302.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00331_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00140.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00308_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00151.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00034_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00187_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00233.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00279.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00096_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00045_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00060.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00234_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00151_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00144.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00347_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00265_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00117.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00207_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00218.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00064_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00185.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00187.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00215_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00088.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00142_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00214_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00131_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00118_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00321.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00319_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00027_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00096.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00113_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00295.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00082_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00277.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00337_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00262.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00216_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00092.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00355.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00328.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00348_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00272_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00113.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00109.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00049_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00276.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00143.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00068.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00103_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00318_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00055_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00234.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00034.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00083.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00176_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00177.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00265.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00061.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00137.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00269.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00260.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00220_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00328_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00332.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00347.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00051_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00089_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00073_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00063_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00153.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00255_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00292.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00241.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00115.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00102_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00108_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00258.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00170_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00306_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00048.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00232.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00114_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00327.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00342_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00317_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00078_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00128_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00145.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00278.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00329.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00013_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00325.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00308.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00018_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00205_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00011.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00228.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00001_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00281.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00124_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00316_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00302_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00067.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00271_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00037_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00284.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00059_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00356_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00083_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00098_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00241_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00334.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00220.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00057_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00322.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00252.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00248.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00276_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00222.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00165.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00116.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00360.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00063.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00104.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00114.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00239_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00015.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00079.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00128.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00028.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00322_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00289.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00010_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00178_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00244.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00145_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00006_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00304_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00137_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00290.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00271.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00156.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00354.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00352.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00293.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00138_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00026.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00171_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00317.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00032.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00058_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00125_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00130.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00062.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00310.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00095.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00325_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00174_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00015_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00055.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00124.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00075.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00192_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00216.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00270.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00026_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00032_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00072_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00215.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00162_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00312.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00291_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00041_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00075_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00133_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00157_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00050.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00273.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00165_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00315_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00101.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00138.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00270_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00095_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00064.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00078.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00087_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00155.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00219.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00217.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00268_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00207.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00045.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00036.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00092_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00179.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00306.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00346_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00067_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00250_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00342.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00291.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00346.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00341_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "B",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00007_rev.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>Is this video played forward (F) or backward (B)? Answer F or B only.",
+        "role": "user"
+      },
+      {
+        "content": "F",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "neuro_paper_data/00089.mp4"
+    ]
+  }
+]

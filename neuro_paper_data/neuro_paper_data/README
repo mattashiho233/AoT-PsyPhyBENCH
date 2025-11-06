@@ -1,0 +1,7 @@
+Due to licensing issues, we share the id of the data in the Moments in Time (MIT) dataset instead of sharing the raw video data. 
+
+To prepare the data for the experiments, please:
+1. Download the MIT dataset. 
+2. Use the conversion table json file under this dir to fetch the 212 video files. 
+3. Reverse them, resulting in 424 video files. 
+4. Name them exactly as the conversion table json indicates. 

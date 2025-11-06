@@ -1,0 +1,62 @@
+[
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the dev data. ",
+          "role": "user"
+        },
+        {
+          "content": "F",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00058.mp4"
+      ]
+    },
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the dev data. ",
+          "role": "user"
+        },
+        {
+          "content": "B",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00012_rev.mp4"
+      ]
+    },
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the dev data. ",
+          "role": "user"
+        },
+        {
+          "content": "F",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00186.mp4"
+      ]
+    },
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the dev data. ",
+          "role": "user"
+        },
+        {
+          "content": "B",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00271_rev.mp4"
+      ]
+    }
+]

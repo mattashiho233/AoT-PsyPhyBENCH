@@ -1,0 +1,32 @@
+[
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the test data. ",
+          "role": "user"
+        },
+        {
+          "content": "Observation: I see a building in poor condition with its framework exposed and walls missing in the center, and another building in the background. A red crane arm extends from the top right of the frame. There are some tree branches that are moving slightly on the top left of the frame. The upper part of the damaged building appears unstable and begins to collapse, breaking apart and falling into the structure itself toward the end. Debris and smoke are visible as this happens. The red crane arm is seen moving and making contact with the damaged building.\nAssumtion: Based on what I observed and using common sense about cause and effect and physical laws, I assume the red crane arm is moving toward the damaged building to assist in bringing it down. The movement of the tree branches is likely caused by the wind, but it is difficult to tell whether it is playing normally or in reverse.\nConclusion: Since the top part of the damaged building is falling down, which supports my assumption of demolition work and does not violate physical laws, I conclude that the video is being played forward.\nF",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00058.mp4"
+      ]
+    },
+    {
+      "messages": [
+        {
+          "content": "Does not matter here. Will be replaced by the script: either custom_instruction or the user prompt from the test data. ",
+          "role": "user"
+        },
+        {
+          "content": "Observation: I see a bridge in the background and a boat or cruise ship on the left side, floating on the water. The boat appears to be moving. A large water splash or explosion is occurring in the water. The splash is very large at the beginning of the video but gradually shrinks and becomes very small by the end.\nAssumption: Based on what I observed, and using common sense regarding causal relationships and physical laws, I assume there is an explosion happening under the water, which creates a large splash that erupts into the air. The bridge remains stationary, so it doesn't provide much information. The boat seems to be moving, but it's unclear whether it's moving forward or backward.\nConclusion: Since the water splash starts off large and gradually shrinks into a small point, which contradicts to the typical behavior of an explosion, which begins small and expands, I conclude that the video is being played backward.\nB",
+          "role": "assistant"
+        }
+      ],
+      "videos": [
+        "neuro_paper_data/00012_rev.mp4"
+      ]
+    }
+]
