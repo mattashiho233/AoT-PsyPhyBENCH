@@ -6,7 +6,7 @@ It supports local **vLLM** inference, **OpenAI** API models, and **Google Gemini
 ## What is the Arrow-of-Time (AoT) task?
 The Arrow-of-Time (AoT) task requires a vision-language model (VLM) to determine the playback direction of a video clip (a binary classification problem).
 There is a substantial performance gap between humans and VLMs: even the latest proprietary VLM achieves only around 60% accuracy, whereas humans reach 90.1% on our benchmark.
-![aot](overview.png)
+![aot](overview.jpg)
 
 
 ## Environment
