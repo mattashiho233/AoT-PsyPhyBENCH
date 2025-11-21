@@ -23,3 +23,18 @@ The entrypoint scripts are `run_*.sh`.
 1. Replace the API key with yours in the entrypoint script. Adjust the concurrent call number according to your API rate limits. 
 2. Check if the video data is correctly placed in the path as written in the entrypoint script. If you haven't prepared the video data, please follow the README in `./neuro_paper_data/neuro_paper_data/README`. 
 3. Run the script. 
+
+## 📄 Citation
+
+If you use this benchmark in your research, please cite:
+```bibtex
+@article{matta2024whichway,
+  title={Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models},
+  author={Matta, Shiho and Kanashiro Pereira, Lis and Han, Peitao and Cheng, Fei and Kitazawa, Shigeru},
+  journal={arXiv preprint arXiv:2510.26241},
+  year={2024},
+  url={https://arxiv.org/abs/2510.26241}
+}
+```
+
+**Paper:** [Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models](https://arxiv.org/abs/2510.26241)
