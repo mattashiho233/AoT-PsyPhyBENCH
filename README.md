@@ -28,11 +28,11 @@ The entrypoint scripts are `run_*.sh`.
 
 If you use this benchmark in your research, please cite:
 ```bibtex
-@article{matta2024whichway,
+@article{matta2025whichway,
   title={Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models},
   author={Matta, Shiho and Kanashiro Pereira, Lis and Han, Peitao and Cheng, Fei and Kitazawa, Shigeru},
   journal={arXiv preprint arXiv:2510.26241},
-  year={2024},
+  year={2025},
   url={https://arxiv.org/abs/2510.26241}
 }
 ```
