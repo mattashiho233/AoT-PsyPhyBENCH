@@ -1,4 +1,5 @@
 # AoT-PsyPhyBENCH: Evaluation Code and Data
+> **⚠️ Note: This repository is currently under construction. Content and structure may change.**
 
 This repository hosts the evaluation code and benchmark data for **AoT-PsyPhyBENCH**: a psychophysically validated benchmark that tests whether VLMs can infer temporal direction in natural videos using the same stimuli and behavioral baselines established for humans.  
 It supports local **vLLM** inference, **OpenAI** API models, and **Google Gemini** models (via an OpenAI-compatible endpoint).
