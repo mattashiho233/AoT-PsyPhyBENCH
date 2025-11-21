@@ -14,7 +14,7 @@ https://royalsocietypublishing.org/doi/full/10.1098/rsos.230036
 
 ## 🧾 Column Structure
 
-- 'id': Filename assigned by Hanyu et al. (2023). 
+- 'id': Filename assigned by Hanyu et al. (2023).
 - 'folder': Folder in which the video is located in the Multi-Moments in Time datasets.
 - 'filename': Original filenames in the Multi-Moments in Time datasets.
 - 'motion_category': Motion category annotation from Hanyu et al. (2023).
@@ -30,3 +30,5 @@ We tried to match the videos with the Multi-Moments in Time dataset (an updated 
 🚫 No video files are distributed in this repository. Only metadata and labels originally provided by the authors are included to support reproducibility and further research.
 
 📥 To access the video files, please visit: [Multi-Moments in Time Dataset](http://moments.csail.mit.edu/)
+For the no longer available videos, please contact us directly: 
+matta@nlp.ist.i.kyoto-u.ac.jp or liskanashiro@nict.go.jp
