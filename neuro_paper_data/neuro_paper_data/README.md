@@ -1,5 +1,5 @@
 
-# AoT Dataset Metadata (Based on Hanyu et al., 2023)
+# AoT-PsyPhyBENCH Metadata
 
 This CSV file contains metadata and annotations for video clips used in our study, based on the dataset introduced by:
 
@@ -7,7 +7,7 @@ Hanyu et al. (2023), "Ready to detect a reversal of time’s arrow? A psychophys
 https://royalsocietypublishing.org/doi/full/10.1098/rsos.230036
  
 
-## 📂 File: `AoT_dataset_metadata.csv`
+## 📂 File: `AoT-PsyPhyBENCH_dataset_metadata.csv`
 
 - Total entries: 212 video clips
 - Format: CSV (comma-separated values)
