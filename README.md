@@ -1,4 +1,4 @@
-# AoT-PsyPhyBENCH: A psychophysically validated benchmark testing whether vision-language models can infer the arrow of time like humans do.
+# 🧠 🔄 AoT-PsyPhyBENCH: A psychophysically validated benchmark testing whether vision-language models can infer the arrow of time like humans do.
 
 > **⚠️ Note: This repository is currently under construction. Content and structure may change.**
 
