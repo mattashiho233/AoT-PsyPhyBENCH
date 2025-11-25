@@ -12,6 +12,9 @@ The Arrow-of-Time (AoT) task requires a vision-language model (VLM) to determine
 There is a substantial performance gap between humans and VLMs: even the latest proprietary VLM achieves only around 60% accuracy, whereas humans reach 90.1% on our benchmark.
 ![aot](overview.jpg)
 
+## AoT-PsyPhyBENCH dataset download
+Please refer to [`neuro_paper_data/neuro_paper_data/README.md`](./neuro_paper_data/neuro_paper_data/README.md)
+
 ## Leaderboard
 
 The table below summarizes current results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
