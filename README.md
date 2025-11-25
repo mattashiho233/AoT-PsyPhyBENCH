@@ -12,6 +12,29 @@ The Arrow-of-Time (AoT) task requires a vision-language model (VLM) to determine
 There is a substantial performance gap between humans and VLMs: even the latest proprietary VLM achieves only around 60% accuracy, whereas humans reach 90.1% on our benchmark.
 ![aot](overview.jpg)
 
+## Leaderboard
+
+The table below summarizes current results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
+## Zero-shot performance on AoT-PsyPhyBENCH
+
+| Family        | Model               | Reasoning?      | F. F1 | B. F1 | Acc. |
+|---------------|---------------------|-----------------|------:|------:|-----:|
+| Baselines     | Random              | —               |   —   |   —   | 50.0 |
+| Baselines     | Human               | —               | 90.0  | 88.0  | **89.2** |
+| Open Models   | Qwen2-VL-7B         | Non-reasoning   | 66.7  |  0.0  | 50.0 |
+| Open Models   | Qwen2.5VL-7B        | Non-reasoning   | 63.0  | 19.5  | 49.3 |
+| Open Models   | Qwen2.5VL-72B       | Non-reasoning   | 57.4  | 38.2  | 49.5 |
+| Open Models   | QVQ-72B-Preview     | Reasoning       | 66.1  |  0.0  | 49.4 |
+| Open Models   | cosmos-reason1 7B   | Reasoning       | 31.2  | 63.3  | **52.1** |
+| Proprietary   | GPT-4o              | Non-reasoning   | 65.4  | 24.9  | 52.6 |
+| Proprietary   | GPT-4.1             | Non-reasoning   | 62.5  | 57.4  | **60.1** |
+| Proprietary   | o3                  | Reasoning       | 67.2  | 29.1  | 55.2 |
+| Proprietary   | o4-mini             | Reasoning       | 67.4  | 33.1  | 56.1 |
+| Proprietary   | GPT-5               | Reasoning       | 68.7  | 26.8  | 56.1 |
+| Proprietary   | Gemini-2.5-pro      | Reasoning       | 65.9  | 51.4  | 59.9 |
+
+
+
 
 ## Environment
 Use **uv** to reconstruct the environment:
