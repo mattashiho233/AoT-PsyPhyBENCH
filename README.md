@@ -15,6 +15,7 @@ There is a substantial performance gap between humans and VLMs: even the latest 
 ## 🧪 Benchmark curation
 
 AoT-PsyPhyBENCH follows the motion categories from Hanyu et al. (2023): https://royalsocietypublishing.org/doi/full/10.1098/rsos.230036.  
+
 Human F1 scores are reported as forward (F) / backward (B) for each motion category.
 
 | Category | Description                                             | Reversal easy for humans? | Human F1 (Forward/Backward) | # samples | Included in AoT-PsyPhyBENCH? |
@@ -25,6 +26,7 @@ Human F1 scores are reported as forward (F) / backward (B) for each motion categ
 | (4) Division    | division of material by hand or tool                        | ✅                         | 86.0 / 80.6                 | 37       | Yes                          |
 | (5) Put         | addition / construction of material by hand                 | ✅                         | 84.1 / 77.4                 | 67       | Yes                          |
 | (6) Reciprocal  | reciprocating (cyclic) motion                               | ❌                         | 71.6 / **38.5**             | 148      | No                           |
+
 
 AoT-PsyPhyBENCH includes categories 1–5 (irreversible processes) and excludes category 6,  
 where reversal is typically challenging even for humans.
@@ -37,7 +39,7 @@ Please refer to [`neuro_paper_data/neuro_paper_data/README.md`](./neuro_paper_da
 We evaluated the following models on AoT-PsyPhyBENCH : **Proprietary non-reasoning**: GPT-4o and GPT-4.1; **proprietary reasoning**: o3, o4-mini, GPT-5, and Gemini-2.5-Pro; **open-weight non-reasoning**: Qwen2-VL and Qwen2.5-VL; **open-weight reasoning**: Cosmos-Reason1-7B and QVQ-72B-Preview. We test these models across multiple experimental settings, detailed in our paper.
 
 The table below summarizes current zero-shot setting results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
-## Zero-shot performance on AoT-PsyPhyBENCH
+## Zero-shot performance
 
 | Family        | Model               | Reasoning?      | F1<br/> Forward | F1<br/>Backward | Acc. |
 |---------------|---------------------|-----------------|----------------:|----------------:|-----:|
