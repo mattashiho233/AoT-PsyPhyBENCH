@@ -36,7 +36,17 @@ Please refer to [`neuro_paper_data/neuro_paper_data/README.md`](./neuro_paper_da
 
 ## Leaderboard
 
-We evaluated the following models on AoT-PsyPhyBENCH : **Proprietary non-reasoning**: GPT-4o and GPT-4.1; **proprietary reasoning**: o3, o4-mini, GPT-5, and Gemini-2.5-Pro; **open-weight non-reasoning**: Qwen2-VL and Qwen2.5-VL; **open-weight reasoning**: Cosmos-Reason1-7B and QVQ-72B-Preview. We test these models across multiple experimental settings, detailed in our paper.
+We evaluated the following models on AoT-PsyPhyBENCH : 
+
+**Proprietary non-reasoning**: GPT-4o and GPT-4.1; 
+
+**proprietary reasoning**: o3, o4-mini, GPT-5, and Gemini-2.5-Pro; 
+
+**open-weight non-reasoning**: Qwen2-VL and Qwen2.5-VL; 
+
+**open-weight reasoning**: Cosmos-Reason1-7B and QVQ-72B-Preview. 
+
+We test these models across multiple experimental settings, detailed in our paper.
 
 The table below summarizes current zero-shot setting results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
 ## Zero-shot performance
