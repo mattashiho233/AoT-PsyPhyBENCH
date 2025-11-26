@@ -12,12 +12,31 @@ The Arrow-of-Time (AoT) task requires a vision-language model (VLM) to determine
 There is a substantial performance gap between humans and VLMs: even the latest proprietary VLM achieves only around 60% accuracy, whereas humans reach 90.1% on our benchmark.
 ![aot](overview.jpg)
 
+## 🧪 Benchmark curation
+
+AoT-PsyPhyBENCH follows the motion categories from Hanyu et al. (2023): https://royalsocietypublishing.org/doi/full/10.1098/rsos.230036.  
+Human F1 scores are reported as forward (F) / backward (B) for each motion category.
+
+| Category | Description                                             | Reversal easy for humans? | Human F1 (Forward/Backward) | # samples | Included in AoT-PsyPhyBENCH? |
+|----------|---------------------------------------------------------|----------------------------|-----------------------------|----------:|------------------------------|
+| (1) Proceed     | forward locomotion of people, animals, or vehicles          | ✅                         | 86.5 / 82.5                 | 82       | Yes                          |
+| (2) Fall        | free-fall / ballistic motion under gravity                 | ✅                         | 86.9 / 82.8                 | 84       | Yes                          |
+| (3) Diffusion   | centrifugal diffusion or small-particle explosions          | ✅                         | 84.6 / 78.7                 | 56       | Yes                          |
+| (4) Division    | division of material by hand or tool                        | ✅                         | 86.0 / 80.6                 | 37       | Yes                          |
+| (5) Put         | addition / construction of material by hand                 | ✅                         | 84.1 / 77.4                 | 67       | Yes                          |
+| (6) Reciprocal  | reciprocating (cyclic) motion                               | ❌                         | 71.6 / **38.5**             | 148      | No                           |
+
+AoT-PsyPhyBENCH includes categories 1–5 (irreversible processes) and excludes category 6,  
+where reversal is typically challenging even for humans.
+
 ## AoT-PsyPhyBENCH dataset download
 Please refer to [`neuro_paper_data/neuro_paper_data/README.md`](./neuro_paper_data/neuro_paper_data/README.md)
 
 ## Leaderboard
 
-The table below summarizes current results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
+We evaluated the following models on AoT-PsyPhyBENCH : **Proprietary non-reasoning**: GPT-4o and GPT-4.1; **proprietary reasoning**: o3, o4-mini, GPT-5, and Gemini-2.5-Pro; **open-weight non-reasoning**: Qwen2-VL and Qwen2.5-VL; **open-weight reasoning**: Cosmos-Reason1-7B and QVQ-72B-Preview. We test these models across multiple experimental settings, detailed in our paper.
+
+The table below summarizes current zero-shot setting results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
 ## Zero-shot performance on AoT-PsyPhyBENCH
 
 | Family        | Model               | Reasoning?      | F1<br/> Forward | F1<br/>Backward | Acc. |
@@ -35,7 +54,6 @@ The table below summarizes current results on AoT-PsyPhyBENCH. All models are ev
 | Proprietary   | o4-mini             | Reasoning       |            67.4 |            33.1 | 56.1 |
 | Proprietary   | GPT-5               | Reasoning       |            68.7 |            26.8 | 56.1 |
 | Proprietary   | Gemini-2.5-pro      | Reasoning       |            65.9 |            51.4 | 59.9 |
-
 
 
 
