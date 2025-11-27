@@ -7,7 +7,7 @@
 This repository hosts the evaluation code and benchmark data for **AoT-PsyPhyBENCH**: a psychophysically validated benchmark that tests whether VLMs can infer temporal direction in natural videos using the same stimuli and behavioral baselines established for humans.  
 It supports local **vLLM** inference, **OpenAI** API models, and **Google Gemini** models (via an OpenAI-compatible endpoint).
 
-## What is the Arrow-of-Time (AoT) task?
+## 🔄 What is the Arrow-of-Time (AoT) task?
 The task requires a vision-language model (VLM) to determine whether a video clip is playing **forward** or **backward**. Despite its seemingly simple formulation, there is a substantial performance gap between humans and VLMs: even the latest proprietary VLM achieves only around 60% accuracy, whereas humans reach 90.1% on our benchmark.
 
 ![aot](overview.jpg)
@@ -18,20 +18,20 @@ AoT-PsyPhyBENCH follows the motion categories from Hanyu et al. (2023): https://
 
 Human F1 scores are reported as forward (F) / backward (B) for each motion category.
 
-| Category | Description                                             | Reversal easy for humans? | Human F1 (Forward/Backward) | # samples | Included in AoT-PsyPhyBENCH? |
-|----------|---------------------------------------------------------|----------------------------|-----------------------------|----------:|------------------------------|
-| (1) Proceed     | forward locomotion of people, animals, or vehicles          | ✅                         | 86.5 / 82.5                 | 82       | Yes                          |
-| (2) Fall        | free-fall / ballistic motion under gravity                 | ✅                         | 86.9 / 82.8                 | 84       | Yes                          |
-| (3) Diffusion   | centrifugal diffusion or small-particle explosions          | ✅                         | 84.6 / 78.7                 | 56       | Yes                          |
-| (4) Division    | division of material by hand or tool                        | ✅                         | 86.0 / 80.6                 | 37       | Yes                          |
-| (5) Put         | addition / construction of material by hand                 | ✅                         | 84.1 / 77.4                 | 67       | Yes                          |
-| (6) Reciprocal  | reciprocating (cyclic) motion                               | ❌                         | 71.6 / **38.5**             | 148      | No                           |
+| Category | Description                                                                                   | Reversal easy for humans? | Human F1 (Forward/Backward) | # samples | Included in AoT-PsyPhyBENCH? |
+|----------|-----------------------------------------------------------------------------------------------|----------------------------|-----------------------------|----------:|------------------------------|
+| (1) Proceed     | forward locomotion of people, animals, or vehicles   <br/><br/> ![proceed](proceed_1.png)     | ✅                         | 86.5 / 82.5                 | 82       | Yes                          |
+| (2) Fall        | free-fall / ballistic motion under gravity <br/><br/> ![fall](fall_1.png)                     | ✅                         | 86.9 / 82.8                 | 84       | Yes                          |
+| (3) Diffusion   | centrifugal diffusion or small-particle explosions    <br/><br/> ![explode](explode_1.png)    | ✅                         | 84.6 / 78.7                 | 56       | Yes                          |
+| (4) Division    | division of material by hand or tool          <br/><br/> ![division](cut_delete_1.png)        | ✅                         | 86.0 / 80.6                 | 37       | Yes                          |
+| (5) Put         | addition / construction of material by hand        <br/><br/> ![addition](addition_1.png)     | ✅                         | 84.1 / 77.4                 | 67       | Yes                          |
+| (6) Reciprocal  | reciprocating (cyclic) motion                       <br/><br/> ![cyclic](cyclic_motion_1.png) | ❌                         | 71.6 / **38.5**             | 148      | No                           |
 
 
 AoT-PsyPhyBENCH includes categories 1–5 (irreversible processes) and excludes category 6,  
 where reversal is typically challenging even for humans.
 
-## AoT-PsyPhyBENCH dataset download
+## 📊 AoT-PsyPhyBENCH dataset download
 Please refer to [`neuro_paper_data/neuro_paper_data/README.md`](./neuro_paper_data/neuro_paper_data/README.md)
 
 ## Leaderboard
@@ -49,7 +49,7 @@ We evaluated the following models on AoT-PsyPhyBENCH:
 We evaluate all models across multiple experimental settings, detailed in our paper.
 
 The table below summarizes current zero-shot setting results on AoT-PsyPhyBENCH. All models are evaluated using the official scripts in this repository.
-## Zero-shot performance
+## 🎯 Zero-shot performance
 
 | Family        | Model               | Reasoning?      | F1<br/> Forward | F1<br/>Backward | Acc. |
 |---------------|---------------------|-----------------|----------------:|----------------:|-----:|
@@ -81,6 +81,13 @@ The entrypoint scripts are `run_*.sh`.
 1. Replace the API key with yours in the entrypoint script. Adjust the concurrent call number according to your API rate limits. 
 2. Check if the video data is correctly placed in the path as written in the entrypoint script. If you haven't prepared the video data, please follow the README in `./neuro_paper_data/neuro_paper_data/README`. 
 3. Run the script. 
+
+## 📝 To Do
+---
+
+- [ ] 📓 Notebook with preprocessing + inference pipeline
+- [ ] 🏆 Release the official leaderboard website
+
 
 ## 📄 Citation
 
