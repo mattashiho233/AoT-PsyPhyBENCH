@@ -83,7 +83,6 @@ The entrypoint scripts are `run_*.sh`.
 3. Run the script. 
 
 ## 📝 To Do
----
 
 - [ ] 📓 Notebook with preprocessing + inference pipeline
 - [ ] 🏆 Release the official leaderboard website
