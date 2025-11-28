@@ -1,213 +1,213 @@
-id,folder,filename,motion_category
-00001.mp4,splashing,2-1-7-1-4-2-8-7-8421714287_4.mp4,"['Fall', 'Explode']"
-00005.mp4,scratching,8-8YqOo4mY4_57.mp4,['Fall']
-00006.mp4,lifting,8EFJmuyC95c_56.mp4,['Put']
-00007.mp4,driving,9-3-2-8-1-3-7-6-18293281376_2.mp4,['Proceed']
-00010.mp4,boating,alPfDarG3ak_34.mp4,['Proceed']
-00011.mp4,buttoning,no_video_found,['Put']
-00012.mp4,combusting,boat-exploding-in-harbor-beneath-a-bridge-video-idmr_00101286.mp4,['Explode']
-00013.mp4,emptying,chef-spoons-sauce-over-fish-on-a-plate-available-in-hd-video-id1BT10338_0451.mp4,['Fall']
-00014.mp4,hiking,close-up-of-a-man-and-a-woman-hiking-up-a-hill-video-idtri506511_0016.mp4,['Proceed']
-00015.mp4,rising,flickr-0-0-8-4-5-4-8-9-5400845489_3.mp4,['Explode']
-00018.mp4,reading,flickr-0-4-8-6-9-9-2-3-14204869923_1.mp4,"['Fall', 'Put']"
-00020.mp4,cooking,flickr-2-0-8-1-3-4-1-1-16620813411_1.mp4,['Fall']
-00022.mp4,pitching,flickr-2-8-7-5-1-8-4-7-5328751847_3.mp4,"['Proceed', 'Fall']"
-00023.mp4,shopping,flickr-3-5-1-5-0-3-4-8-16435150348_14.mp4,['Put']
-00026.mp4,erupting,flickr-4-0-3-7-4-0-5-7-15940374057_128.mp4,['Explode']
-00027.mp4,shoveling,flickr-4-6-1-0-3-1-8-5-12646103185_32.mp4,['Fall']
-00028.mp4,diving,flickr-4-6-1-7-1-7-0-0-21446171700_2.mp4,['Proceed']
-00030.mp4,chasing,flickr-5-5-5-7-9-7-8-3-13955579783_13.mp4,['Proceed']
-00032.mp4,running,flickr-7-5-8-8-8-9-3-3-5175888933_2.mp4,['Proceed']
-00034.mp4,boarding,flickr-8-3-1-7-1-6-6-9-4583171669_2.mp4,"['Proceed', 'Fall']"
-00035.mp4,catching,flickr-8-8-9-8-5-4-8-5-15388985485_2.mp4,['Fall']
-00036.mp4,clinging,flickr-9-1-9-6783536919_8.mp4,['Fall']
-00037.mp4,saluting,getty--video-idmr_00093816_5.mp4,['Proceed']
-00041.mp4,gambling,getty-1960s-group-of-senior-men-playing-cards-in-club-video-id103943906_4.mp4,['Fall']
-00042.mp4,dressing,getty-4kyoung-men-tying-shoelaces-video-id531220660_3.mp4,['Put']
-00043.mp4,dunking,getty-a-basketball-backboard-net-and-rim-and-a-black-male-player-slam-the-video-id135924271_6.mp4,"['Proceed', 'Fall']"
-00045.mp4,giving,getty-adult-man-giving-shawl-to-his-father-in-diwali-festival-delhi-india-video-id598665738_1.mp4,['Put']
-00048.mp4,piloting,getty-airline-pilot-watches-as-airplane-passes-overhead-early-evening-video-id489014789_10.mp4,['Proceed']
-00049.mp4,spraying,getty-airplanes-flying-overhead-aerial-nazi-bomber-airplane-inflight-w-video-id509841441_12.mp4,['Explode']
-00050.mp4,landing,getty-airplanes-landing-in-the-barcelona-airport-on-sunset-light-with-video-id533611636_1.mp4,['Proceed']
-00051.mp4,sprinkling,getty-aloe-vera-video-id472984139_2.mp4,"['Fall', 'Explode']"
-00054.mp4,dropping,getty-anchor-dropping-antalya-turkey-video-id494206802_1.mp4,"['Fall', 'Explode']"
-00055.mp4,bowling,getty-andrew-cowen-is-practicing-to-bowl-a-perfect-300-game-while-bowling-video-id450057228_46.mp4,['Fall']
-00057.mp4,filling,getty-answer-sheet-exam-filling-test-paper-video-id490700378_6.mp4,['Put']
-00058.mp4,colliding,getty-apartment-building-demolition-video-id456860096_5.mp4,['Fall']
-00059.mp4,injecting,getty-apple-genetic-modification-video-id145765682_15.mp4,['Fall']
-00060.mp4,carrying,getty-artisanal-bakery-video-id623390170_2.mp4,['Proceed']
-00061.mp4,slicing,getty-artisssanal-bakery-2-video-id625054440_3.mp4,['Cut_Delete']
-00062.mp4,sketching,getty-artist-working-in-his-workshop-video-id534971644_15.mp4,['Put']
-00063.mp4,painting,getty-artist-working-in-the-studio-video-id584058176_13.mp4,['Put']
-00064.mp4,plunging,getty-asian-family-on-vacation-splashing-at-a-resort-pool-video-id649963792_6.mp4,['Explode']
-00067.mp4,combing,getty-asian-woman-combing-her-hair-video-id683188978_1.mp4,['Fall']
-00068.mp4,packing,getty-assembly-line-of-produce-packers-packing-lettuce-video-id154114116_24.mp4,['Put']
-00070.mp4,skiing,getty-atlete-competes-in-the-ski-jumping-competition-during-nordic-combined-video-id528010270_2.mp4,['Proceed']
-00072.mp4,rinsing,getty-automatic-washing-machine-video-id500339893_8.mp4,['Fall']
-00073.mp4,crawling,getty-baby-girl-crawling-through-a-yellow-tunnel-video-id477022098_2.mp4,['Proceed']
-00075.mp4,loading,getty-baggage-loading-in-airplane-airport-luxembourgfindel-luxembourg-video-id142076092_14.mp4,['Proceed']
-00076.mp4,baking,getty-baking-cannelloni-in-the-oven-4k-time-lapse-video-id501613058_5.mp4,"['Fall', 'Explode']"
-00078.mp4,starting,getty-barber-draping-cape-over-clients-shoulders-before-shave-in-barber-video-id830178802_1.mp4,['Fall']
-00079.mp4,shaving,getty-barber-shaving-mans-beard-video-id511556722_3.mp4,['Put']
-00081.mp4,opening,getty-bartender-at-bar-video-idjptv0045228_3.mp4,['Put']
-00082.mp4,bubbling,getty-beer-wine-bubbles-in-glass-ntsc-30p-video-id103383229_9.mp4,['Fall']
-00083.mp4,flying,getty-bees-outside-hive-beeyard-at-mission-san-juan-capistrano-san-juan-video-id93392243_2.mp4,['Proceed']
-00087.mp4,raining,getty-black-white-rain-drops-on-water-surface-video-id485140470_12.mp4,['Explode']
-00088.mp4,snowing,getty-blue-jay-eating-in-snow-video-id637094764_5.mp4,['Fall']
-00089.mp4,exercising,getty-blurred-fitness-abstract-fitness-gym-running-on-treadmill-video-id494273214_13.mp4,['Proceed']
-00091.mp4,boiling,getty-boiled-vegettables-in-the-pot-video-id612444604_4.mp4,['Explode']
-00092.mp4,burning,getty-bonfire-video-id840427466_4.mp4,"['Fall', 'Explode']"
-00095.mp4,boxing,getty-boy-punching-bag-video-id639074028_10.mp4,['Proceed']
-00096.mp4,steering,getty-boy-rides-a-bicycle-on-a-sidewalk-video-id683098007_3.mp4,['Proceed']
-00098.mp4,spreading,getty-breakfast-set-served-highdefinition-video-pan-video-id474412236_4.mp4,['Fall']
-00100.mp4,building,getty-brick-installation-video-id454329927_2.mp4,['Put']
-00101.mp4,riding,getty-building-demolition-at-night-video-id514975472_15.mp4,['Proceed']
-00102.mp4,bulldozing,getty-bulldozer-pushes-large-pile-of-recyclable-items-at-a-recycling-a-video-id534701150_15.mp4,"['Proceed', 'Put']"
-00103.mp4,competing,getty-business-concept-darts-arrows-in-the-target-center-video-id584715094_20.mp4,"['Proceed', 'Fall']"
-00104.mp4,destroying,getty-business-man-tearing-up-a-document-in-his-office-video-id639490724_2.mp4,['Cut_Delete']
-00108.mp4,climbing,getty-businessman-ascending-stairs-in-sunny-airport-video-id640129434_3.mp4,['Proceed']
-00109.mp4,resting,getty-businessman-waking-up-in-airport-lounge-and-talking-on-mobile-phone-video-id79751919_4.mp4,['Put']
-00113.mp4,locking,getty-buster-keaton-attempts-to-fight-an-old-man-but-is-instead-kicked-in-video-id849249284_10.mp4,"['Proceed', 'Put']"
-00114.mp4,paying,getty-buying-vegetables-video-id150660867_7.mp4,['Put']
-00115.mp4,descending,getty-cafe-worker-making-lattes-video-id577923024_1.mp4,"['Fall', 'Explode']"
-00116.mp4,brushing,getty-car-covered-in-snow-brushing-it-off-with-ice-scraper-video-id114898584_11.mp4,['Fall']
-00117.mp4,breaking,getty-car-crashes-through-the-windows-of-middle-floors-video-id103633210_2.mp4,"['Proceed', 'Fall', 'Explode']"
-00118.mp4,stacking,getty-careful-mixed-race-schoolboy-stacks-plastic-cups-at-school-video-id675749878_2.mp4,['Put']
-00120.mp4,crashing,getty-cars-colliding-at-an-intersection-video-id694898881_6.mp4,['Proceed']
-00124.mp4,planting,getty-cauliflower-crop-plantation-video-id506655725_5.mp4,['Put']
-00125.mp4,spilling,getty-chefs-sprinkling-flour-video-id496933854_13.mp4,['Explode']
-00128.mp4,flicking,getty-children-playing-in-pick-up-bed-video-id621969022_5.mp4,"['Fall', 'Explode']"
-00130.mp4,covering,getty-chocolate-covered-toffee-being-topped-with-walnuts-and-placed-in-bags-video-id463417516_9.mp4,['Fall']
-00131.mp4,chopping,getty-chopping-spicy-peppers-video-id609741460_6.mp4,['Cut_Delete']
-00132.mp4,operating,getty-city-tower-blocks-stand-on-the-horizon-beyond-a-green-public-space-video-id654722778_90.mp4,['Proceed']
-00133.mp4,racing,getty-class-of-swimmers-begin-their-race-video-id103275125_13.mp4,"['Proceed', 'Explode']"
-00135.mp4,ascending,getty-climbing-the-stairs-multiformat-progressive-video-id129511564_8.mp4,['Proceed']
-00137.mp4,dipping,getty-close-up-of-fries-and-ketchup-video-id547071838_8.mp4,['Put']
-00138.mp4,picking,getty-close-up-of-woman-picking-strawberries-uk-video-id137128005_1.mp4,['Cut_Delete']
-00140.mp4,arresting,no_video_found,['Put']
-00142.mp4,mowing,getty-combine-harvester-video-id473025895_8.mp4,['Proceed']
-00143.mp4,autographing,getty-contract-series-video-id145657296_4.mp4,['Put']
-00144.mp4,smashing,getty-cook-cracks-eggs-into-a-large-metal-bowl-video-id157905801_13.mp4,"['Fall', 'Cut_Delete']"
-00145.mp4,parading,getty-cordoba-hundreds-of-cordoba-residents-protest-corruption-and-police-video-id498075464_3.mp4,['Proceed']
-00151.mp4,smoking,getty-crumpled-paper-slowly-burning-video-id469265844_8.mp4,['Explode']
-00153.mp4,leaking,getty-cup-overflowing-video-id472884977_4.mp4,"['Fall', 'Explode']"
-00155.mp4,sawing,getty-cutting-wood-video-id473250663_6.mp4,['Cut_Delete']
-00156.mp4,pouring,getty-dad-preparing-baby-bottles-video-id505015146_14.mp4,"['Fall', 'Put']"
-00157.mp4,blowing,getty-dandelion-seeds-blow-away-in-the-wind-video-id686460101_2.mp4,['Explode']
-00158.mp4,drenching,getty-day-of-rain-video-id146162984_4.mp4,['Fall']
-00159.mp4,measuring,getty-doctor-measures-the-belly-of-a-pregnant-patient-video-id660429851_4.mp4,['Put']
-00162.mp4,submerging,getty-emperor-penguins-surfacing-underwater-cape-washington-antarctica-video-id498118851_13.mp4,['Proceed']
-00165.mp4,jumping,getty-family-in-outdoor-swimming-pool-video-id102704402_2.mp4,"['Proceed', 'Fall']"
-00170.mp4,bending,getty-father-and-son-walking-to-water-video-id104098988_3.mp4,"['Proceed', 'Explode']"
-00171.mp4,leaning,getty-female-ballet-dancer-putting-on-ballet-shoes-on-floor-in-dance-studio-video-id690092760_10.mp4,['Put']
-00172.mp4,extinguishing,getty-fire-extinguishment-with-lots-of-smoke-video-id476719040_8.mp4,['Explode']
-00173.mp4,celebrating,getty-fireworks-over-victoria-harbor-hong-kong-china-video-id171822388_27.mp4,['Explode']
-00174.mp4,fishing,getty-fisherman-with-their-poles-in-the-waters-off-of-a-pier-as-a-tour-boat-video-idmr_00095414_11.mp4,"['Fall', 'Explode']"
-00176.mp4,floating,getty-flowers-floating-in-the-pool-beach-lounge-video-id640119114_6.mp4,['Explode']
-00177.mp4,draining,getty-flush-toilet-video-id698665608_3.mp4,['Fall']
-00178.mp4,flowing,getty-garden-fountain-video-id640998414_6.mp4,"['Fall', 'Explode']"
-00179.mp4,burying,getty-girl-playing-in-the-sand-video-id802666932_23.mp4,['Fall']
-00180.mp4,blocking,getty-goalie-defending-soccer-goal-video-idjptv0055242_6.mp4,['Fall']
-00183.mp4,entering,getty-grandparents-and-grandchildren-greeting-pilot-and-boarding-private-video-id674821406_10.mp4,['Proceed']
-00184.mp4,marching,getty-grenadier-guards-band-at-the-changing-of-the-guard-ceremony-at-place-video-id133494865_32.mp4,['Proceed']
-00185.mp4,grilling,getty-grilling-mackerel-on-a-griddle-video-id619568802_2.mp4,['Fall']
-00186.mp4,pulling,getty-ground-crew-member-pulls-a-cart-of-equipment-across-the-flightline-video-id516783412_2.mp4,['Proceed']
-00187.mp4,rafting,getty-group-having-fun-rafting-video-id473113847_7.mp4,['Proceed']
-00192.mp4,bowing,getty-japanese-business-apology-video-id584915004_1.mp4,['Proceed']
-00194.mp4,playing+sports,getty-kailua-hawaii-oahu-canoe-club-rowing-on-outrigger-canoes-in-bay-video-id586446712_1.mp4,['Proceed']
-00196.mp4,bouncing,getty-kangaroos-australia-jumping-in-the-wild-video-id472552817_2.mp4,['Proceed']
-00201.mp4,exiting,getty-long-shot-people-disembarking-from-ferry-nycs-most-scenic-the-staten-video-id170467903_10.mp4,['Proceed']
-00202.mp4,queuing,getty-lunch-time-children-video-id464658476_12.mp4,['Put']
-00204.mp4,buying,getty-man-buying-wine-in-liquor-shop-soho-new-york-city-new-york-usa-video-id73870188_40.mp4,['Put']
-00205.mp4,clearing,getty-man-sweeping-rose-petals-in-the-bucket-video-id618478400_14.mp4,['Put']
-00206.mp4,scrubbing,getty-mature-man-cleaning-car-windscreen-with-squeegee-neenah-wisconsin-usa-video-id94527227_4.mp4,['Put']
-00207.mp4,sailing,getty-model-yachts-are-sailing-on-the-pond-behind-autumnal-trees-at-central-video-id636912034_33.mp4,['Proceed']
-00209.mp4,camping,getty-mountaineering-expedition-of-gasherbrumii-video-id609206517_3.mp4,"['Fall', 'Explode']"
-00214.mp4,kneeling,getty-oiran-festival-in-asakusa-video-id187373476_11.mp4,['Proceed']
-00215.mp4,squatting,getty-one-young-lady-coming-near-by-laundry-machine-with-basket-in-handnew-video-id136092581_6.mp4,['Put']
-00216.mp4,overflowing,getty-onlookers-watching-river-overflow-on-bronx-river-parkway-after-was-video-id124189371_113.mp4,['Explode']
-00217.mp4,mopping,getty-panning-shot-following-a-working-cleaning-outdoor-flooring-video-id134627998_17.mp4,['Put']
-00218.mp4,sliding,getty-paper-sliding-video-id494683284_2.mp4,['Proceed']
-00219.mp4,peeling,getty-peeling-potatoes-video-id825931926_8.mp4,['Cut_Delete']
-00220.mp4,clipping,getty-peeling-zucchini-video-id637018066_43.mp4,['Cut_Delete']
-00222.mp4,jogging,getty-people-jogging-and-riding-bikes-alongside-the-yarra-river-in-on-11-video-id628604684_4.mp4,['Proceed']
-00223.mp4,raising,getty-pizza-slice-video-id489860046_7.mp4,['Cut_Delete']
-00226.mp4,slipping,getty-shot-of-pair-of-emperor-penguins-waddle-dancing-away-and-one-falling-video-id548581419_1.mp4,"['Proceed', 'Fall']"
-00228.mp4,sprinting,getty-sprint-hurdle-race-for-men-closeup-video-id174007290_3.mp4,"['Proceed', 'Fall']"
-00229.mp4,reaching,getty-stressedout-man-pacing-floor-in-tuxedo-as-man-attempts-to-grab-pants-video-id1233-98_7.mp4,['Proceed']
-00231.mp4,surfing,getty-teenage-boy-surfing-on-eisbach-river-in-englischer-garten-munich-video-id92788060_8.mp4,['Proceed']
-00232.mp4,sowing,getty-the-cabbage-video-id465002646_12.mp4,['Put']
-00233.mp4,closing,getty-truck-rear-door-closing-close-up-video-idgro20001-1-025_2.mp4,['Fall']
-00234.mp4,digging,getty-twin-otter-aircraft-being-refueled-in-antarctic-wind-digging-fuel-video-id495745142_1.mp4,"['Fall', 'Explode']"
-00237.mp4,dragging,getty-unloading-the-truck-video-id478226941_4.mp4,['Fall']
-00239.mp4,dripping,getty-water-drips-from-melting-snow-japan-video-id507028541_4.mp4,['Fall']
-00241.mp4,assembling,getty-welding-video-id466988866_10.mp4,['Explode']
-00244.mp4,plugging,getty-woman-inserting-cables-into-back-of-computer-server-sydney-australia-video-id85878854_5.mp4,['Put']
-00246.mp4,cutting,getty-woman-slicing-ripe-banana-fruit-video-id547464904_1.mp4,['Cut_Delete']
-00247.mp4,sweeping,getty-women-cleaning-animal-farm-video-id636282456_3.mp4,['Explode']
-00248.mp4,stitching,getty-women-embroidered-name-video-id473193831_20.mp4,['Put']
-00250.mp4,bycicling,giphy-14jRWmyHsokyOY_0.mp4,['Proceed']
-00252.mp4,pushing,giphy-GY0AzNLLvb6sE_0.mp4,['Fall']
-00253.mp4,launching,giphy-IaDQBmHKnoWCQ_0.mp4,['Explode']
-00255.mp4,barbecuing,giphy-eDxUY4Zl0Luus_0.mp4,['Put']
-00258.mp4,hitchhiking,giphy-l2SqemOP9xeETlvfq_0.mp4,['Proceed']
-00260.mp4,crushing,giphy-rM7BxcwHpsJgs_8.mp4,"['Fall', 'Explode', 'Cut_Delete']"
-00262.mp4,handcuffing,no_video_found,['Put']
-00265.mp4,joining,vb-business-team-joining-hands-together-in-circle-to-show-teamwork-vkwr0f52xilmhfkuo_1.mp4,['Put']
-00267.mp4,constructing,vb-carpenter-putting-screws-in-the-new-cabinet-hinges-4k-b24436oslj0ggvl8z_9.mp4,['Put']
-00268.mp4,drilling,vb-close-up-drilling-wood-ho25ropmioybbky3_1.mp4,['Cut_Delete']
-00269.mp4,cracking,vb-cracking-eggs-on-the-kitchen-h1_xqehimrhe7fx_15.mp4,"['Fall', 'Cut_Delete']"
-00270.mp4,stopping,vb-goalkeeper-in-blue-making-a-save-715078_bau50_1.mp4,['Fall']
-00271.mp4,stealing,vb-man-stealing-purse-from-old-woman-sslwozldiqyanv93_1.mp4,['Proceed']
-00272.mp4,marrying,vb-the-offer-to-marry-hands-of-the-man-dressing-a-ring-on-the-beloveds-finger-hands-of-the-man-and-woman-golden-ring-engagement-b43dm-jmxivqjebpp_2.mp4,['Put']
-00273.mp4,screwing,vb-winter-fisherman-uses-ice-screws-stl67s-tliz6rxut0_6.mp4,['Cut_Delete']
-00276.mp4,falling,yt-07bflWE96i0_146.mp4,['Fall']
-00277.mp4,sewing,yt-2cS_7bsXHVA_468.mp4,['Put']
-00278.mp4,pedaling,yt-41HRBOuDMl0_49.mp4,['Proceed']
-00279.mp4,punting,no_video_found,"['Proceed', 'Fall']"
-00281.mp4,carving,yt-8Ve-Mhi96t4_170.mp4,['Cut_Delete']
-00283.mp4,cleaning,yt-GwCYvrGXjhA_34.mp4,"['Fall', 'Explode']"
-00284.mp4,stomping,yt-Hz1Nj-Ctc0k_121.mp4,['Cut_Delete']
-00285.mp4,drawing,yt-Lf8lwkpu44s_688.mp4,['Put']
-00289.mp4,folding,yt-Yek_Pai7fuA_105.mp4,['Put']
-00290.mp4,juggling,yt-a8HEA_S93hA_190.mp4,['Fall']
-00291.mp4,kicking,yt-aE8EZtMu_6U_8.mp4,['Proceed']
-00292.mp4,shredding,yt-d0hAeAeuM6Y_5.mp4,"['Proceed', 'Cut_Delete', 'Put']"
-00293.mp4,playing+fun,yt-h-IbQmmkf5U_67.mp4,['Fall']
-00295.mp4,sitting,yt-ksBLKi6lj1s_33.mp4,['Proceed']
-00297.mp4,inflating,yt-pnsCYo3xogw_39.mp4,['Explode']
-00302.mp4,talking,flickr-2-1-7-1-7-6-2-0-14321717620_1.mp4,['Explode']
-00303.mp4,taping,getty--video-id564928383_4.mp4,['Put']
-00304.mp4,unloading,getty-arctic-environment-in-franzjosef-land-video-id606322691_7.mp4,['Fall']
-00306.mp4,trimming,getty-bride-and-groom-cutting-the-wedding-cake-with-knife-video-id125390773_4.mp4,['Cut_Delete']
-00308.mp4,tying,getty-chiefs-hands-trussing-chicken-video-id84658029_11.mp4,['Put']
-00310.mp4,tearing,getty-closeup-of-asian-chinese-toddler-peeling-the-banana-skin-and-finally-video-id475352728_11.mp4,['Cut_Delete']
-00312.mp4,working,getty-construction-workers-pour-cement-down-for-new-sidewalk-to-be-paved-video-id843884890_3.mp4,['Put']
-00315.mp4,throwing,getty-friends-throwing-man-in-the-water-video-id184629489_4.mp4,"['Fall', 'Explode']"
-00316.mp4,watering,getty-grandfather-with-grandchildren-watering-in-garden-los-angeles-usa-video-id101571834_2.mp4,['Fall']
-00317.mp4,washing,getty-hands-scrub-clothes-on-washboard-turpan-xinjiang-province-china-video-id633702731_3.mp4,['Explode']
-00318.mp4,writing,getty-handwriting-in-park-4k-video-id492381482_2.mp4,['Put']
-00319.mp4,swerving,getty-shot-of-big-semitruck-on-highway-and-1970-gray-ford-car-out-of-side-video-id150397263_10.mp4,['Proceed']
-00321.mp4,welding,getty-shot-of-workers-working-in-production-hall-at-steel-mill-bous-video-id461606261_1.mp4,"['Fall', 'Explode']"
-00322.mp4,tripping,getty-waiter-holding-tray-with-bottle-and-glass-on-it-talks-to-man-who-video-id516371108_33.mp4,['Fall']
-00325.mp4,waking,getty-woman-stretching-when-she-wakes-up-video-id143919239_7.mp4,['Fall']
-00327.mp4,swimming,getty-young-boy-holding-breathblowing-bubbles-signalling-to-camera-video-id136587182_3.mp4,"['Fall', 'Explode']"
-00328.mp4,telephoning,giphy-cYFUqTZbO7Eti_0.mp4,"['Cut_Delete', 'Put']"
-00329.mp4,twisting,giphy-kIKDGXcdFGkzm_0.mp4,['Fall']
-00331.mp4,wrapping,vb-scissors-cutting-christmas-wrapping-paper-bt-kl3mreixakmstk_2.mp4,['Cut_Delete']
-00332.mp4,unpacking,vb-unpacking-jars-of-paint-before-refilling-color-printer-raw-video-record-nokpzjwqlike4nebz_5.mp4,['Cut_Delete']
-00333.mp4,tattooing,yt--ZT1bAdEDn0_87.mp4,['Put']
-00334.mp4,towing,yt-C2DxaX8BLOg_20.mp4,['Proceed']
-00335.mp4,wrestling,yt-GbCB7pzRSHg_2.mp4,['Put']
-00337.mp4,walking,yt-NqRSH-zpuBk_83.mp4,['Explode']
-00341.mp4,shooting,no_video_found,['Explode']
-00342.mp4,operating,flickr-3-8-4-3-4-9-4-6-15138434946_163.mp4,['Explode']
-00346.mp4,placing,getty-barista-hand-dripping-coffee-video-id600051376_1.mp4,['Fall']
-00347.mp4,cramming,getty-boy-and-girl-packing-inflatable-toy-into-car-tamborine-mountain-video-id84955043_3.mp4,"['Proceed', 'Put']"
-00348.mp4,removing,getty-business-man-takes-clothes-off-video-id127813835_4.mp4,['Fall']
-00350.mp4,cutting,getty-chef-cutting-chinese-sausage-into-slices-in-kitchen-video-id543000162_3.mp4,['Cut_Delete']
-00352.mp4,stopping,getty-clip-1-protesters-marching-through-cleveland-chanting-this-is-what-video-id577758026_24.mp4,['Proceed']
-00354.mp4,boating,getty-fishermen-opening-crab-pot-on-deck-of-ship-and-dumping-them-onto-for-video-id1328-33_1.mp4,['Fall']
-00355.mp4,flooding,getty-flooding-sluice-video-id475718061_12.mp4,['Explode']
-00356.mp4,catching,getty-men-playing-basketball-salt-lake-city-utah-usa-video-id98743956_7.mp4,['Fall']
-00360.mp4,playing+videogames,yt-a4nMasXB1HA_94.mp4,['Proceed']
+id,folder,filename,motion_category,source_filename_Hanyu2023_MiT2019
+00001.mp4,splashing,2-1-7-1-4-2-8-7-8421714287_4.mp4,"['Fall', 'Explode']",2-1-7-1-4-2-8-7-8421714287_4.mp4
+00005.mp4,scratching,8-8YqOo4mY4_57.mp4,['Fall'],8-8YqOo4mY4_57.mp4
+00006.mp4,lifting,8EFJmuyC95c_56.mp4,['Put'],8EFJmuyC95c_56.mp4
+00007.mp4,driving,9-3-2-8-1-3-7-6-18293281376_2.mp4,['Proceed'],9-3-2-8-1-3-7-6-18293281376_2.mp4
+00010.mp4,boating,alPfDarG3ak_34.mp4,['Proceed'],alPfDarG3ak_34.mp4
+00011.mp4,buttoning,no_video_found,['Put'],bing-https:__vimeo_com_81460456_26.mp4
+00012.mp4,combusting,boat-exploding-in-harbor-beneath-a-bridge-video-idmr_00101286.mp4,['Explode'],boat-exploding-in-harbor-beneath-a-bridge-video-idmr_00101286.mp4
+00013.mp4,emptying,chef-spoons-sauce-over-fish-on-a-plate-available-in-hd-video-id1BT10338_0451.mp4,['Fall'],chef-spoons-sauce-over-fish-on-a-plate-available-in-hd-video-id1BT10338_0451.mp4
+00014.mp4,hiking,close-up-of-a-man-and-a-woman-hiking-up-a-hill-video-idtri506511_0016.mp4,['Proceed'],close-up-of-a-man-and-a-woman-hiking-up-a-hill-video-idtri506511_0016.mp4
+00015.mp4,rising,flickr-0-0-8-4-5-4-8-9-5400845489_3.mp4,['Explode'],flickr-0-0-8-4-5-4-8-9-5400845489_3.mp4
+00018.mp4,reading,flickr-0-4-8-6-9-9-2-3-14204869923_1.mp4,"['Fall', 'Put']",flickr-0-4-8-6-9-9-2-3-14204869923_1.mp4
+00020.mp4,cooking,flickr-2-0-8-1-3-4-1-1-16620813411_1.mp4,['Fall'],flickr-2-0-8-1-3-4-1-1-16620813411_1.mp4
+00022.mp4,pitching,flickr-2-8-7-5-1-8-4-7-5328751847_3.mp4,"['Proceed', 'Fall']",flickr-2-8-7-5-1-8-4-7-5328751847_3.mp4
+00023.mp4,shopping,flickr-3-5-1-5-0-3-4-8-16435150348_14.mp4,['Put'],flickr-3-5-1-5-0-3-4-8-16435150348_14.mp4
+00026.mp4,erupting,flickr-4-0-3-7-4-0-5-7-15940374057_128.mp4,['Explode'],flickr-4-0-3-7-4-0-5-7-15940374057_128.mp4
+00027.mp4,shoveling,flickr-4-6-1-0-3-1-8-5-12646103185_32.mp4,['Fall'],flickr-4-6-1-0-3-1-8-5-12646103185_32.mp4
+00028.mp4,diving,flickr-4-6-1-7-1-7-0-0-21446171700_2.mp4,['Proceed'],flickr-4-6-1-7-1-7-0-0-21446171700_2.mp4
+00030.mp4,chasing,flickr-5-5-5-7-9-7-8-3-13955579783_13.mp4,['Proceed'],flickr-5-5-5-7-9-7-8-3-13955579783_13.mp4
+00032.mp4,running,flickr-7-5-8-8-8-9-3-3-5175888933_2.mp4,['Proceed'],flickr-7-5-8-8-8-9-3-3-5175888933_2.mp4
+00034.mp4,boarding,flickr-8-3-1-7-1-6-6-9-4583171669_2.mp4,"['Proceed', 'Fall']",flickr-8-3-1-7-1-6-6-9-4583171669_2.mp4
+00035.mp4,catching,flickr-8-8-9-8-5-4-8-5-15388985485_2.mp4,['Fall'],flickr-8-8-9-8-5-4-8-5-15388985485_2.mp4
+00036.mp4,clinging,flickr-9-1-9-6783536919_8.mp4,['Fall'],flickr-9-1-9-6783536919_8.mp4
+00037.mp4,saluting,getty--video-idmr_00093816_5.mp4,['Proceed'],getty--video-idmr_00093816_5.mp4
+00041.mp4,gambling,getty-1960s-group-of-senior-men-playing-cards-in-club-video-id103943906_4.mp4,['Fall'],getty-1960s-group-of-senior-men-playing-cards-in-club-video-id103943906_4.mp4
+00042.mp4,dressing,getty-4kyoung-men-tying-shoelaces-video-id531220660_3.mp4,['Put'],getty-4kyoung-men-tying-shoelaces-video-id531220660_3.mp4
+00043.mp4,dunking,getty-a-basketball-backboard-net-and-rim-and-a-black-male-player-slam-the-video-id135924271_6.mp4,"['Proceed', 'Fall']",getty-a-basketball-backboard-net-and-rim-and-a-black-male-player-slam-the-video-id135924271_6.mp4
+00045.mp4,giving,getty-adult-man-giving-shawl-to-his-father-in-diwali-festival-delhi-india-video-id598665738_1.mp4,['Put'],getty-adult-man-giving-shawl-to-his-father-in-diwali-festival-delhi-india-video-id598665738_1.mp4
+00048.mp4,piloting,getty-airline-pilot-watches-as-airplane-passes-overhead-early-evening-video-id489014789_10.mp4,['Proceed'],getty-airline-pilot-watches-as-airplane-passes-overhead-early-evening-video-id489014789_10.mp4
+00049.mp4,spraying,getty-airplanes-flying-overhead-aerial-nazi-bomber-airplane-inflight-w-video-id509841441_12.mp4,['Explode'],getty-airplanes-flying-overhead-aerial-nazi-bomber-airplane-inflight-w-video-id509841441_12.mp4
+00050.mp4,landing,getty-airplanes-landing-in-the-barcelona-airport-on-sunset-light-with-video-id533611636_1.mp4,['Proceed'],getty-airplanes-landing-in-the-barcelona-airport-on-sunset-light-with-video-id533611636_1.mp4
+00051.mp4,sprinkling,getty-aloe-vera-video-id472984139_2.mp4,"['Fall', 'Explode']",getty-aloe-vera-video-id472984139_2.mp4
+00054.mp4,dropping,getty-anchor-dropping-antalya-turkey-video-id494206802_1.mp4,"['Fall', 'Explode']",getty-anchor-dropping-antalya-turkey-video-id494206802_1.mp4
+00055.mp4,bowling,getty-andrew-cowen-is-practicing-to-bowl-a-perfect-300-game-while-bowling-video-id450057228_46.mp4,['Fall'],getty-andrew-cowen-is-practicing-to-bowl-a-perfect-300-game-while-bowling-video-id450057228_46.mp4
+00057.mp4,filling,getty-answer-sheet-exam-filling-test-paper-video-id490700378_6.mp4,['Put'],getty-answer-sheet-exam-filling-test-paper-video-id490700378_6.mp4
+00058.mp4,colliding,getty-apartment-building-demolition-video-id456860096_5.mp4,['Fall'],getty-apartment-building-demolition-video-id456860096_5.mp4
+00059.mp4,injecting,getty-apple-genetic-modification-video-id145765682_15.mp4,['Fall'],getty-apple-genetic-modification-video-id145765682_15.mp4
+00060.mp4,carrying,getty-artisanal-bakery-video-id623390170_2.mp4,['Proceed'],getty-artisanal-bakery-video-id623390170_2.mp4
+00061.mp4,slicing,getty-artisssanal-bakery-2-video-id625054440_3.mp4,['Cut_Delete'],getty-artisssanal-bakery-2-video-id625054440_3.mp4
+00062.mp4,sketching,getty-artist-working-in-his-workshop-video-id534971644_15.mp4,['Put'],getty-artist-working-in-his-workshop-video-id534971644_15.mp4
+00063.mp4,painting,getty-artist-working-in-the-studio-video-id584058176_13.mp4,['Put'],getty-artist-working-in-the-studio-video-id584058176_13.mp4
+00064.mp4,plunging,getty-asian-family-on-vacation-splashing-at-a-resort-pool-video-id649963792_6.mp4,['Explode'],getty-asian-family-on-vacation-splashing-at-a-resort-pool-video-id649963792_6.mp4
+00067.mp4,combing,getty-asian-woman-combing-her-hair-video-id683188978_1.mp4,['Fall'],getty-asian-woman-combing-her-hair-video-id683188978_1.mp4
+00068.mp4,packing,getty-assembly-line-of-produce-packers-packing-lettuce-video-id154114116_24.mp4,['Put'],getty-assembly-line-of-produce-packers-packing-lettuce-video-id154114116_24.mp4
+00070.mp4,skiing,getty-atlete-competes-in-the-ski-jumping-competition-during-nordic-combined-video-id528010270_2.mp4,['Proceed'],getty-atlete-competes-in-the-ski-jumping-competition-during-nordic-combined-video-id528010270_2.mp4
+00072.mp4,rinsing,getty-automatic-washing-machine-video-id500339893_8.mp4,['Fall'],getty-automatic-washing-machine-video-id500339893_8.mp4
+00073.mp4,crawling,getty-baby-girl-crawling-through-a-yellow-tunnel-video-id477022098_2.mp4,['Proceed'],getty-baby-girl-crawling-through-a-yellow-tunnel-video-id477022098_2.mp4
+00075.mp4,loading,getty-baggage-loading-in-airplane-airport-luxembourgfindel-luxembourg-video-id142076092_14.mp4,['Proceed'],getty-baggage-loading-in-airplane-airport-luxembourgfindel-luxembourg-video-id142076092_14.mp4
+00076.mp4,baking,getty-baking-cannelloni-in-the-oven-4k-time-lapse-video-id501613058_5.mp4,"['Fall', 'Explode']",getty-baking-cannelloni-in-the-oven-4k-time-lapse-video-id501613058_5.mp4
+00078.mp4,starting,getty-barber-draping-cape-over-clients-shoulders-before-shave-in-barber-video-id830178802_1.mp4,['Fall'],getty-barber-draping-cape-over-clients-shoulders-before-shave-in-barber-video-id830178802_1.mp4
+00079.mp4,shaving,getty-barber-shaving-mans-beard-video-id511556722_3.mp4,['Put'],getty-barber-shaving-mans-beard-video-id511556722_3.mp4
+00081.mp4,opening,getty-bartender-at-bar-video-idjptv0045228_3.mp4,['Put'],getty-bartender-at-bar-video-idjptv0045228_3.mp4
+00082.mp4,bubbling,getty-beer-wine-bubbles-in-glass-ntsc-30p-video-id103383229_9.mp4,['Fall'],getty-beer-wine-bubbles-in-glass-ntsc-30p-video-id103383229_9.mp4
+00083.mp4,flying,getty-bees-outside-hive-beeyard-at-mission-san-juan-capistrano-san-juan-video-id93392243_2.mp4,['Proceed'],getty-bees-outside-hive-beeyard-at-mission-san-juan-capistrano-san-juan-video-id93392243_2.mp4
+00087.mp4,raining,getty-black-white-rain-drops-on-water-surface-video-id485140470_12.mp4,['Explode'],getty-black-white-rain-drops-on-water-surface-video-id485140470_12.mp4
+00088.mp4,snowing,getty-blue-jay-eating-in-snow-video-id637094764_5.mp4,['Fall'],getty-blue-jay-eating-in-snow-video-id637094764_5.mp4
+00089.mp4,exercising,getty-blurred-fitness-abstract-fitness-gym-running-on-treadmill-video-id494273214_13.mp4,['Proceed'],getty-blurred-fitness-abstract-fitness-gym-running-on-treadmill-video-id494273214_13.mp4
+00091.mp4,boiling,getty-boiled-vegettables-in-the-pot-video-id612444604_4.mp4,['Explode'],getty-boiled-vegettables-in-the-pot-video-id612444604_4.mp4
+00092.mp4,burning,getty-bonfire-video-id840427466_4.mp4,"['Fall', 'Explode']",getty-bonfire-video-id840427466_4.mp4
+00095.mp4,boxing,getty-boy-punching-bag-video-id639074028_10.mp4,['Proceed'],getty-boy-punching-bag-video-id639074028_10.mp4
+00096.mp4,steering,getty-boy-rides-a-bicycle-on-a-sidewalk-video-id683098007_3.mp4,['Proceed'],getty-boy-rides-a-bicycle-on-a-sidewalk-video-id683098007_3.mp4
+00098.mp4,spreading,getty-breakfast-set-served-highdefinition-video-pan-video-id474412236_4.mp4,['Fall'],getty-breakfast-set-served-highdefinition-video-pan-video-id474412236_4.mp4
+00100.mp4,building,getty-brick-installation-video-id454329927_2.mp4,['Put'],getty-brick-installation-video-id454329927_2.mp4
+00101.mp4,riding,getty-building-demolition-at-night-video-id514975472_15.mp4,['Proceed'],getty-building-demolition-at-night-video-id514975472_15.mp4
+00102.mp4,bulldozing,getty-bulldozer-pushes-large-pile-of-recyclable-items-at-a-recycling-a-video-id534701150_15.mp4,"['Proceed', 'Put']",getty-bulldozer-pushes-large-pile-of-recyclable-items-at-a-recycling-a-video-id534701150_15.mp4
+00103.mp4,competing,getty-business-concept-darts-arrows-in-the-target-center-video-id584715094_20.mp4,"['Proceed', 'Fall']",getty-business-concept-darts-arrows-in-the-target-center-video-id584715094_20.mp4
+00104.mp4,destroying,getty-business-man-tearing-up-a-document-in-his-office-video-id639490724_2.mp4,['Cut_Delete'],getty-business-man-tearing-up-a-document-in-his-office-video-id639490724_2.mp4
+00108.mp4,climbing,getty-businessman-ascending-stairs-in-sunny-airport-video-id640129434_3.mp4,['Proceed'],getty-businessman-ascending-stairs-in-sunny-airport-video-id640129434_3.mp4
+00109.mp4,resting,getty-businessman-waking-up-in-airport-lounge-and-talking-on-mobile-phone-video-id79751919_4.mp4,['Put'],getty-businessman-waking-up-in-airport-lounge-and-talking-on-mobile-phone-video-id79751919_4.mp4
+00113.mp4,locking,getty-buster-keaton-attempts-to-fight-an-old-man-but-is-instead-kicked-in-video-id849249284_10.mp4,"['Proceed', 'Put']",getty-buster-keaton-attempts-to-fight-an-old-man-but-is-instead-kicked-in-video-id849249284_10.mp4
+00114.mp4,paying,getty-buying-vegetables-video-id150660867_7.mp4,['Put'],getty-buying-vegetables-video-id150660867_7.mp4
+00115.mp4,descending,getty-cafe-worker-making-lattes-video-id577923024_1.mp4,"['Fall', 'Explode']",getty-cafe-worker-making-lattes-video-id577923024_1.mp4
+00116.mp4,brushing,getty-car-covered-in-snow-brushing-it-off-with-ice-scraper-video-id114898584_11.mp4,['Fall'],getty-car-covered-in-snow-brushing-it-off-with-ice-scraper-video-id114898584_11.mp4
+00117.mp4,breaking,getty-car-crashes-through-the-windows-of-middle-floors-video-id103633210_2.mp4,"['Proceed', 'Fall', 'Explode']",getty-car-crashes-through-the-windows-of-middle-floors-video-id103633210_2.mp4
+00118.mp4,stacking,getty-careful-mixed-race-schoolboy-stacks-plastic-cups-at-school-video-id675749878_2.mp4,['Put'],getty-careful-mixed-race-schoolboy-stacks-plastic-cups-at-school-video-id675749878_2.mp4
+00120.mp4,crashing,getty-cars-colliding-at-an-intersection-video-id694898881_6.mp4,['Proceed'],getty-cars-colliding-at-an-intersection-video-id694898881_6.mp4
+00124.mp4,planting,getty-cauliflower-crop-plantation-video-id506655725_5.mp4,['Put'],getty-cauliflower-crop-plantation-video-id506655725_5.mp4
+00125.mp4,spilling,getty-chefs-sprinkling-flour-video-id496933854_13.mp4,['Explode'],getty-chefs-sprinkling-flour-video-id496933854_13.mp4
+00128.mp4,flicking,getty-children-playing-in-pick-up-bed-video-id621969022_5.mp4,"['Fall', 'Explode']",getty-children-playing-in-pick-up-bed-video-id621969022_5.mp4
+00130.mp4,covering,getty-chocolate-covered-toffee-being-topped-with-walnuts-and-placed-in-bags-video-id463417516_9.mp4,['Fall'],getty-chocolate-covered-toffee-being-topped-with-walnuts-and-placed-in-bags-video-id463417516_9.mp4
+00131.mp4,chopping,getty-chopping-spicy-peppers-video-id609741460_6.mp4,['Cut_Delete'],getty-chopping-spicy-peppers-video-id609741460_6.mp4
+00132.mp4,operating,getty-city-tower-blocks-stand-on-the-horizon-beyond-a-green-public-space-video-id654722778_90.mp4,['Proceed'],getty-city-tower-blocks-stand-on-the-horizon-beyond-a-green-public-space-video-id654722778_90.mp4
+00133.mp4,racing,getty-class-of-swimmers-begin-their-race-video-id103275125_13.mp4,"['Proceed', 'Explode']",getty-class-of-swimmers-begin-their-race-video-id103275125_13.mp4
+00135.mp4,ascending,getty-climbing-the-stairs-multiformat-progressive-video-id129511564_8.mp4,['Proceed'],getty-climbing-the-stairs-multiformat-progressive-video-id129511564_8.mp4
+00137.mp4,dipping,getty-close-up-of-fries-and-ketchup-video-id547071838_8.mp4,['Put'],getty-close-up-of-fries-and-ketchup-video-id547071838_8.mp4
+00138.mp4,picking,getty-close-up-of-woman-picking-strawberries-uk-video-id137128005_1.mp4,['Cut_Delete'],getty-close-up-of-woman-picking-strawberries-uk-video-id137128005_1.mp4
+00140.mp4,arresting,no_video_found,['Put'],getty-close-up-shirtless-black-man-being-handcuffed-led-away-video-id554-1_3.mp4
+00142.mp4,mowing,getty-combine-harvester-video-id473025895_8.mp4,['Proceed'],getty-combine-harvester-video-id473025895_8.mp4
+00143.mp4,autographing,getty-contract-series-video-id145657296_4.mp4,['Put'],getty-contract-series-video-id145657296_4.mp4
+00144.mp4,smashing,getty-cook-cracks-eggs-into-a-large-metal-bowl-video-id157905801_13.mp4,"['Fall', 'Cut_Delete']",getty-cook-cracks-eggs-into-a-large-metal-bowl-video-id157905801_13.mp4
+00145.mp4,parading,getty-cordoba-hundreds-of-cordoba-residents-protest-corruption-and-police-video-id498075464_3.mp4,['Proceed'],getty-cordoba-hundreds-of-cordoba-residents-protest-corruption-and-police-video-id498075464_3.mp4
+00151.mp4,smoking,getty-crumpled-paper-slowly-burning-video-id469265844_8.mp4,['Explode'],getty-crumpled-paper-slowly-burning-video-id469265844_8.mp4
+00153.mp4,leaking,getty-cup-overflowing-video-id472884977_4.mp4,"['Fall', 'Explode']",getty-cup-overflowing-video-id472884977_4.mp4
+00155.mp4,sawing,getty-cutting-wood-video-id473250663_6.mp4,['Cut_Delete'],getty-cutting-wood-video-id473250663_6.mp4
+00156.mp4,pouring,getty-dad-preparing-baby-bottles-video-id505015146_14.mp4,"['Fall', 'Put']",getty-dad-preparing-baby-bottles-video-id505015146_14.mp4
+00157.mp4,blowing,getty-dandelion-seeds-blow-away-in-the-wind-video-id686460101_2.mp4,['Explode'],getty-dandelion-seeds-blow-away-in-the-wind-video-id686460101_2.mp4
+00158.mp4,drenching,getty-day-of-rain-video-id146162984_4.mp4,['Fall'],getty-day-of-rain-video-id146162984_4.mp4
+00159.mp4,measuring,getty-doctor-measures-the-belly-of-a-pregnant-patient-video-id660429851_4.mp4,['Put'],getty-doctor-measures-the-belly-of-a-pregnant-patient-video-id660429851_4.mp4
+00162.mp4,submerging,getty-emperor-penguins-surfacing-underwater-cape-washington-antarctica-video-id498118851_13.mp4,['Proceed'],getty-emperor-penguins-surfacing-underwater-cape-washington-antarctica-video-id498118851_13.mp4
+00165.mp4,jumping,getty-family-in-outdoor-swimming-pool-video-id102704402_2.mp4,"['Proceed', 'Fall']",getty-family-in-outdoor-swimming-pool-video-id102704402_2.mp4
+00170.mp4,bending,getty-father-and-son-walking-to-water-video-id104098988_3.mp4,"['Proceed', 'Explode']",getty-father-and-son-walking-to-water-video-id104098988_3.mp4
+00171.mp4,leaning,getty-female-ballet-dancer-putting-on-ballet-shoes-on-floor-in-dance-studio-video-id690092760_10.mp4,['Put'],getty-female-ballet-dancer-putting-on-ballet-shoes-on-floor-in-dance-studio-video-id690092760_10.mp4
+00172.mp4,extinguishing,getty-fire-extinguishment-with-lots-of-smoke-video-id476719040_8.mp4,['Explode'],getty-fire-extinguishment-with-lots-of-smoke-video-id476719040_8.mp4
+00173.mp4,celebrating,getty-fireworks-over-victoria-harbor-hong-kong-china-video-id171822388_27.mp4,['Explode'],getty-fireworks-over-victoria-harbor-hong-kong-china-video-id171822388_27.mp4
+00174.mp4,fishing,getty-fisherman-with-their-poles-in-the-waters-off-of-a-pier-as-a-tour-boat-video-idmr_00095414_11.mp4,"['Fall', 'Explode']",getty-fisherman-with-their-poles-in-the-waters-off-of-a-pier-as-a-tour-boat-video-idmr_00095414_11.mp4
+00176.mp4,floating,getty-flowers-floating-in-the-pool-beach-lounge-video-id640119114_6.mp4,['Explode'],getty-flowers-floating-in-the-pool-beach-lounge-video-id640119114_6.mp4
+00177.mp4,draining,getty-flush-toilet-video-id698665608_3.mp4,['Fall'],getty-flush-toilet-video-id698665608_3.mp4
+00178.mp4,flowing,getty-garden-fountain-video-id640998414_6.mp4,"['Fall', 'Explode']",getty-garden-fountain-video-id640998414_6.mp4
+00179.mp4,burying,getty-girl-playing-in-the-sand-video-id802666932_23.mp4,['Fall'],getty-girl-playing-in-the-sand-video-id802666932_23.mp4
+00180.mp4,blocking,getty-goalie-defending-soccer-goal-video-idjptv0055242_6.mp4,['Fall'],getty-goalie-defending-soccer-goal-video-idjptv0055242_6.mp4
+00183.mp4,entering,getty-grandparents-and-grandchildren-greeting-pilot-and-boarding-private-video-id674821406_10.mp4,['Proceed'],getty-grandparents-and-grandchildren-greeting-pilot-and-boarding-private-video-id674821406_10.mp4
+00184.mp4,marching,getty-grenadier-guards-band-at-the-changing-of-the-guard-ceremony-at-place-video-id133494865_32.mp4,['Proceed'],getty-grenadier-guards-band-at-the-changing-of-the-guard-ceremony-at-place-video-id133494865_32.mp4
+00185.mp4,grilling,getty-grilling-mackerel-on-a-griddle-video-id619568802_2.mp4,['Fall'],getty-grilling-mackerel-on-a-griddle-video-id619568802_2.mp4
+00186.mp4,pulling,getty-ground-crew-member-pulls-a-cart-of-equipment-across-the-flightline-video-id516783412_2.mp4,['Proceed'],getty-ground-crew-member-pulls-a-cart-of-equipment-across-the-flightline-video-id516783412_2.mp4
+00187.mp4,rafting,getty-group-having-fun-rafting-video-id473113847_7.mp4,['Proceed'],getty-group-having-fun-rafting-video-id473113847_7.mp4
+00192.mp4,bowing,getty-japanese-business-apology-video-id584915004_1.mp4,['Proceed'],getty-japanese-business-apology-video-id584915004_1.mp4
+00194.mp4,playing+sports,getty-kailua-hawaii-oahu-canoe-club-rowing-on-outrigger-canoes-in-bay-video-id586446712_1.mp4,['Proceed'],getty-kailua-hawaii-oahu-canoe-club-rowing-on-outrigger-canoes-in-bay-video-id586446712_1.mp4
+00196.mp4,bouncing,getty-kangaroos-australia-jumping-in-the-wild-video-id472552817_2.mp4,['Proceed'],getty-kangaroos-australia-jumping-in-the-wild-video-id472552817_2.mp4
+00201.mp4,exiting,getty-long-shot-people-disembarking-from-ferry-nycs-most-scenic-the-staten-video-id170467903_10.mp4,['Proceed'],getty-long-shot-people-disembarking-from-ferry-nycs-most-scenic-the-staten-video-id170467903_10.mp4
+00202.mp4,queuing,getty-lunch-time-children-video-id464658476_12.mp4,['Put'],getty-lunch-time-children-video-id464658476_12.mp4
+00204.mp4,buying,getty-man-buying-wine-in-liquor-shop-soho-new-york-city-new-york-usa-video-id73870188_40.mp4,['Put'],getty-man-buying-wine-in-liquor-shop-soho-new-york-city-new-york-usa-video-id73870188_40.mp4
+00205.mp4,clearing,getty-man-sweeping-rose-petals-in-the-bucket-video-id618478400_14.mp4,['Put'],getty-man-sweeping-rose-petals-in-the-bucket-video-id618478400_14.mp4
+00206.mp4,scrubbing,getty-mature-man-cleaning-car-windscreen-with-squeegee-neenah-wisconsin-usa-video-id94527227_4.mp4,['Put'],getty-mature-man-cleaning-car-windscreen-with-squeegee-neenah-wisconsin-usa-video-id94527227_4.mp4
+00207.mp4,sailing,getty-model-yachts-are-sailing-on-the-pond-behind-autumnal-trees-at-central-video-id636912034_33.mp4,['Proceed'],getty-model-yachts-are-sailing-on-the-pond-behind-autumnal-trees-at-central-video-id636912034_33.mp4
+00209.mp4,camping,getty-mountaineering-expedition-of-gasherbrumii-video-id609206517_3.mp4,"['Fall', 'Explode']",getty-mountaineering-expedition-of-gasherbrumii-video-id609206517_3.mp4
+00214.mp4,kneeling,getty-oiran-festival-in-asakusa-video-id187373476_11.mp4,['Proceed'],getty-oiran-festival-in-asakusa-video-id187373476_11.mp4
+00215.mp4,squatting,getty-one-young-lady-coming-near-by-laundry-machine-with-basket-in-handnew-video-id136092581_6.mp4,['Put'],getty-one-young-lady-coming-near-by-laundry-machine-with-basket-in-handnew-video-id136092581_6.mp4
+00216.mp4,overflowing,getty-onlookers-watching-river-overflow-on-bronx-river-parkway-after-was-video-id124189371_113.mp4,['Explode'],getty-onlookers-watching-river-overflow-on-bronx-river-parkway-after-was-video-id124189371_113.mp4
+00217.mp4,mopping,getty-panning-shot-following-a-working-cleaning-outdoor-flooring-video-id134627998_17.mp4,['Put'],getty-panning-shot-following-a-working-cleaning-outdoor-flooring-video-id134627998_17.mp4
+00218.mp4,sliding,getty-paper-sliding-video-id494683284_2.mp4,['Proceed'],getty-paper-sliding-video-id494683284_2.mp4
+00219.mp4,peeling,getty-peeling-potatoes-video-id825931926_8.mp4,['Cut_Delete'],getty-peeling-potatoes-video-id825931926_8.mp4
+00220.mp4,clipping,getty-peeling-zucchini-video-id637018066_43.mp4,['Cut_Delete'],getty-peeling-zucchini-video-id637018066_43.mp4
+00222.mp4,jogging,getty-people-jogging-and-riding-bikes-alongside-the-yarra-river-in-on-11-video-id628604684_4.mp4,['Proceed'],getty-people-jogging-and-riding-bikes-alongside-the-yarra-river-in-on-11-video-id628604684_4.mp4
+00223.mp4,raising,getty-pizza-slice-video-id489860046_7.mp4,['Cut_Delete'],getty-pizza-slice-video-id489860046_7.mp4
+00226.mp4,slipping,getty-shot-of-pair-of-emperor-penguins-waddle-dancing-away-and-one-falling-video-id548581419_1.mp4,"['Proceed', 'Fall']",getty-shot-of-pair-of-emperor-penguins-waddle-dancing-away-and-one-falling-video-id548581419_1.mp4
+00228.mp4,sprinting,getty-sprint-hurdle-race-for-men-closeup-video-id174007290_3.mp4,"['Proceed', 'Fall']",getty-sprint-hurdle-race-for-men-closeup-video-id174007290_3.mp4
+00229.mp4,reaching,getty-stressedout-man-pacing-floor-in-tuxedo-as-man-attempts-to-grab-pants-video-id1233-98_7.mp4,['Proceed'],getty-stressedout-man-pacing-floor-in-tuxedo-as-man-attempts-to-grab-pants-video-id1233-98_7.mp4
+00231.mp4,surfing,getty-teenage-boy-surfing-on-eisbach-river-in-englischer-garten-munich-video-id92788060_8.mp4,['Proceed'],getty-teenage-boy-surfing-on-eisbach-river-in-englischer-garten-munich-video-id92788060_8.mp4
+00232.mp4,sowing,getty-the-cabbage-video-id465002646_12.mp4,['Put'],getty-the-cabbage-video-id465002646_12.mp4
+00233.mp4,closing,getty-truck-rear-door-closing-close-up-video-idgro20001-1-025_2.mp4,['Fall'],getty-truck-rear-door-closing-close-up-video-idgro20001-1-025_2.mp4
+00234.mp4,digging,getty-twin-otter-aircraft-being-refueled-in-antarctic-wind-digging-fuel-video-id495745142_1.mp4,"['Fall', 'Explode']",getty-twin-otter-aircraft-being-refueled-in-antarctic-wind-digging-fuel-video-id495745142_1.mp4
+00237.mp4,dragging,getty-unloading-the-truck-video-id478226941_4.mp4,['Fall'],getty-unloading-the-truck-video-id478226941_4.mp4
+00239.mp4,dripping,getty-water-drips-from-melting-snow-japan-video-id507028541_4.mp4,['Fall'],getty-water-drips-from-melting-snow-japan-video-id507028541_4.mp4
+00241.mp4,assembling,getty-welding-video-id466988866_10.mp4,['Explode'],getty-welding-video-id466988866_10.mp4
+00244.mp4,plugging,getty-woman-inserting-cables-into-back-of-computer-server-sydney-australia-video-id85878854_5.mp4,['Put'],getty-woman-inserting-cables-into-back-of-computer-server-sydney-australia-video-id85878854_5.mp4
+00246.mp4,cutting,getty-woman-slicing-ripe-banana-fruit-video-id547464904_1.mp4,['Cut_Delete'],getty-woman-slicing-ripe-banana-fruit-video-id547464904_1.mp4
+00247.mp4,sweeping,getty-women-cleaning-animal-farm-video-id636282456_3.mp4,['Explode'],getty-women-cleaning-animal-farm-video-id636282456_3.mp4
+00248.mp4,stitching,getty-women-embroidered-name-video-id473193831_20.mp4,['Put'],getty-women-embroidered-name-video-id473193831_20.mp4
+00250.mp4,bycicling,giphy-14jRWmyHsokyOY_0.mp4,['Proceed'],giphy-14jRWmyHsokyOY_0.mp4
+00252.mp4,pushing,giphy-GY0AzNLLvb6sE_0.mp4,['Fall'],giphy-GY0AzNLLvb6sE_0.mp4
+00253.mp4,launching,giphy-IaDQBmHKnoWCQ_0.mp4,['Explode'],giphy-IaDQBmHKnoWCQ_0.mp4
+00255.mp4,barbecuing,giphy-eDxUY4Zl0Luus_0.mp4,['Put'],giphy-eDxUY4Zl0Luus_0.mp4
+00258.mp4,hitchhiking,giphy-l2SqemOP9xeETlvfq_0.mp4,['Proceed'],giphy-l2SqemOP9xeETlvfq_0.mp4
+00260.mp4,crushing,giphy-rM7BxcwHpsJgs_8.mp4,"['Fall', 'Explode', 'Cut_Delete']",giphy-rM7BxcwHpsJgs_8.mp4
+00262.mp4,handcuffing,no_video_found,['Put'],vb-Guard-Handcuffs-Inmate-BW-Version-dwHsZol_10.mp4
+00265.mp4,joining,vb-business-team-joining-hands-together-in-circle-to-show-teamwork-vkwr0f52xilmhfkuo_1.mp4,['Put'],vb-business-team-joining-hands-together-in-circle-to-show-teamwork-vkwr0f52xilmhfkuo_1.mp4
+00267.mp4,constructing,vb-carpenter-putting-screws-in-the-new-cabinet-hinges-4k-b24436oslj0ggvl8z_9.mp4,['Put'],vb-carpenter-putting-screws-in-the-new-cabinet-hinges-4k-b24436oslj0ggvl8z_9.mp4
+00268.mp4,drilling,vb-close-up-drilling-wood-ho25ropmioybbky3_1.mp4,['Cut_Delete'],vb-close-up-drilling-wood-ho25ropmioybbky3_1.mp4
+00269.mp4,cracking,vb-cracking-eggs-on-the-kitchen-h1_xqehimrhe7fx_15.mp4,"['Fall', 'Cut_Delete']",vb-cracking-eggs-on-the-kitchen-h1_xqehimrhe7fx_15.mp4
+00270.mp4,stopping,vb-goalkeeper-in-blue-making-a-save-715078_bau50_1.mp4,['Fall'],vb-goalkeeper-in-blue-making-a-save-715078_bau50_1.mp4
+00271.mp4,stealing,vb-man-stealing-purse-from-old-woman-sslwozldiqyanv93_1.mp4,['Proceed'],vb-man-stealing-purse-from-old-woman-sslwozldiqyanv93_1.mp4
+00272.mp4,marrying,vb-the-offer-to-marry-hands-of-the-man-dressing-a-ring-on-the-beloveds-finger-hands-of-the-man-and-woman-golden-ring-engagement-b43dm-jmxivqjebpp_2.mp4,['Put'],vb-the-offer-to-marry-hands-of-the-man-dressing-a-ring-on-the-beloveds-finger-hands-of-the-man-and-woman-golden-ring-engagement-b43dm-jmxivqjebpp_2.mp4
+00273.mp4,screwing,vb-winter-fisherman-uses-ice-screws-stl67s-tliz6rxut0_6.mp4,['Cut_Delete'],vb-winter-fisherman-uses-ice-screws-stl67s-tliz6rxut0_6.mp4
+00276.mp4,falling,yt-07bflWE96i0_146.mp4,['Fall'],yt-07bflWE96i0_146.mp4
+00277.mp4,sewing,yt-2cS_7bsXHVA_468.mp4,['Put'],yt-2cS_7bsXHVA_468.mp4
+00278.mp4,pedaling,yt-41HRBOuDMl0_49.mp4,['Proceed'],yt-41HRBOuDMl0_49.mp4
+00279.mp4,punting,no_video_found,"['Proceed', 'Fall']",yt-5BqoJ6k2_JQ_144.mp4
+00281.mp4,carving,yt-8Ve-Mhi96t4_170.mp4,['Cut_Delete'],yt-8Ve-Mhi96t4_170.mp4
+00283.mp4,cleaning,yt-GwCYvrGXjhA_34.mp4,"['Fall', 'Explode']",yt-GwCYvrGXjhA_34.mp4
+00284.mp4,stomping,yt-Hz1Nj-Ctc0k_121.mp4,['Cut_Delete'],yt-Hz1Nj-Ctc0k_121.mp4
+00285.mp4,drawing,yt-Lf8lwkpu44s_688.mp4,['Put'],yt-Lf8lwkpu44s_688.mp4
+00289.mp4,folding,yt-Yek_Pai7fuA_105.mp4,['Put'],yt-Yek_Pai7fuA_105.mp4
+00290.mp4,juggling,yt-a8HEA_S93hA_190.mp4,['Fall'],yt-a8HEA_S93hA_190.mp4
+00291.mp4,kicking,yt-aE8EZtMu_6U_8.mp4,['Proceed'],yt-aE8EZtMu_6U_8.mp4
+00292.mp4,shredding,yt-d0hAeAeuM6Y_5.mp4,"['Proceed', 'Cut_Delete', 'Put']",yt-d0hAeAeuM6Y_5.mp4
+00293.mp4,playing+fun,yt-h-IbQmmkf5U_67.mp4,['Fall'],yt-h-IbQmmkf5U_67.mp4
+00295.mp4,sitting,yt-ksBLKi6lj1s_33.mp4,['Proceed'],yt-ksBLKi6lj1s_33.mp4
+00297.mp4,inflating,yt-pnsCYo3xogw_39.mp4,['Explode'],yt-pnsCYo3xogw_39.mp4
+00302.mp4,talking,flickr-2-1-7-1-7-6-2-0-14321717620_1.mp4,['Explode'],flickr-2-1-7-1-7-6-2-0-14321717620_1.mp4
+00303.mp4,taping,getty--video-id564928383_4.mp4,['Put'],getty--video-id564928383_4.mp4
+00304.mp4,unloading,getty-arctic-environment-in-franzjosef-land-video-id606322691_7.mp4,['Fall'],getty-arctic-environment-in-franzjosef-land-video-id606322691_7.mp4
+00306.mp4,trimming,getty-bride-and-groom-cutting-the-wedding-cake-with-knife-video-id125390773_4.mp4,['Cut_Delete'],getty-bride-and-groom-cutting-the-wedding-cake-with-knife-video-id125390773_4.mp4
+00308.mp4,tying,getty-chiefs-hands-trussing-chicken-video-id84658029_11.mp4,['Put'],getty-chiefs-hands-trussing-chicken-video-id84658029_11.mp4
+00310.mp4,tearing,getty-closeup-of-asian-chinese-toddler-peeling-the-banana-skin-and-finally-video-id475352728_11.mp4,['Cut_Delete'],getty-closeup-of-asian-chinese-toddler-peeling-the-banana-skin-and-finally-video-id475352728_11.mp4
+00312.mp4,working,getty-construction-workers-pour-cement-down-for-new-sidewalk-to-be-paved-video-id843884890_3.mp4,['Put'],getty-construction-workers-pour-cement-down-for-new-sidewalk-to-be-paved-video-id843884890_3.mp4
+00315.mp4,throwing,getty-friends-throwing-man-in-the-water-video-id184629489_4.mp4,"['Fall', 'Explode']",getty-friends-throwing-man-in-the-water-video-id184629489_4.mp4
+00316.mp4,watering,getty-grandfather-with-grandchildren-watering-in-garden-los-angeles-usa-video-id101571834_2.mp4,['Fall'],getty-grandfather-with-grandchildren-watering-in-garden-los-angeles-usa-video-id101571834_2.mp4
+00317.mp4,washing,getty-hands-scrub-clothes-on-washboard-turpan-xinjiang-province-china-video-id633702731_3.mp4,['Explode'],getty-hands-scrub-clothes-on-washboard-turpan-xinjiang-province-china-video-id633702731_3.mp4
+00318.mp4,writing,getty-handwriting-in-park-4k-video-id492381482_2.mp4,['Put'],getty-handwriting-in-park-4k-video-id492381482_2.mp4
+00319.mp4,swerving,getty-shot-of-big-semitruck-on-highway-and-1970-gray-ford-car-out-of-side-video-id150397263_10.mp4,['Proceed'],getty-shot-of-big-semitruck-on-highway-and-1970-gray-ford-car-out-of-side-video-id150397263_10.mp4
+00321.mp4,welding,getty-shot-of-workers-working-in-production-hall-at-steel-mill-bous-video-id461606261_1.mp4,"['Fall', 'Explode']",getty-shot-of-workers-working-in-production-hall-at-steel-mill-bous-video-id461606261_1.mp4
+00322.mp4,tripping,getty-waiter-holding-tray-with-bottle-and-glass-on-it-talks-to-man-who-video-id516371108_33.mp4,['Fall'],getty-waiter-holding-tray-with-bottle-and-glass-on-it-talks-to-man-who-video-id516371108_33.mp4
+00325.mp4,waking,getty-woman-stretching-when-she-wakes-up-video-id143919239_7.mp4,['Fall'],getty-woman-stretching-when-she-wakes-up-video-id143919239_7.mp4
+00327.mp4,swimming,getty-young-boy-holding-breathblowing-bubbles-signalling-to-camera-video-id136587182_3.mp4,"['Fall', 'Explode']",getty-young-boy-holding-breathblowing-bubbles-signalling-to-camera-video-id136587182_3.mp4
+00328.mp4,telephoning,giphy-cYFUqTZbO7Eti_0.mp4,"['Cut_Delete', 'Put']",giphy-cYFUqTZbO7Eti_0.mp4
+00329.mp4,twisting,giphy-kIKDGXcdFGkzm_0.mp4,['Fall'],giphy-kIKDGXcdFGkzm_0.mp4
+00331.mp4,wrapping,vb-scissors-cutting-christmas-wrapping-paper-bt-kl3mreixakmstk_2.mp4,['Cut_Delete'],vb-scissors-cutting-christmas-wrapping-paper-bt-kl3mreixakmstk_2.mp4
+00332.mp4,unpacking,vb-unpacking-jars-of-paint-before-refilling-color-printer-raw-video-record-nokpzjwqlike4nebz_5.mp4,['Cut_Delete'],vb-unpacking-jars-of-paint-before-refilling-color-printer-raw-video-record-nokpzjwqlike4nebz_5.mp4
+00333.mp4,tattooing,yt--ZT1bAdEDn0_87.mp4,['Put'],yt--ZT1bAdEDn0_87.mp4
+00334.mp4,towing,yt-C2DxaX8BLOg_20.mp4,['Proceed'],yt-C2DxaX8BLOg_20.mp4
+00335.mp4,wrestling,yt-GbCB7pzRSHg_2.mp4,['Put'],yt-GbCB7pzRSHg_2.mp4
+00337.mp4,walking,yt-NqRSH-zpuBk_83.mp4,['Explode'],yt-NqRSH-zpuBk_83.mp4
+00341.mp4,shooting,no_video_found,['Explode'],flickr-3-4-8-3-5-6-3-0-5734835630_3.mp4
+00342.mp4,operating,flickr-3-8-4-3-4-9-4-6-15138434946_163.mp4,['Explode'],flickr-3-8-4-3-4-9-4-6-15138434946_163.mp4
+00346.mp4,placing,getty-barista-hand-dripping-coffee-video-id600051376_1.mp4,['Fall'],getty-barista-hand-dripping-coffee-video-id600051376_1.mp4
+00347.mp4,cramming,getty-boy-and-girl-packing-inflatable-toy-into-car-tamborine-mountain-video-id84955043_3.mp4,"['Proceed', 'Put']",getty-boy-and-girl-packing-inflatable-toy-into-car-tamborine-mountain-video-id84955043_3.mp4
+00348.mp4,removing,getty-business-man-takes-clothes-off-video-id127813835_4.mp4,['Fall'],getty-business-man-takes-clothes-off-video-id127813835_4.mp4
+00350.mp4,cutting,getty-chef-cutting-chinese-sausage-into-slices-in-kitchen-video-id543000162_3.mp4,['Cut_Delete'],getty-chef-cutting-chinese-sausage-into-slices-in-kitchen-video-id543000162_3.mp4
+00352.mp4,stopping,getty-clip-1-protesters-marching-through-cleveland-chanting-this-is-what-video-id577758026_24.mp4,['Proceed'],getty-clip-1-protesters-marching-through-cleveland-chanting-this-is-what-video-id577758026_24.mp4
+00354.mp4,boating,getty-fishermen-opening-crab-pot-on-deck-of-ship-and-dumping-them-onto-for-video-id1328-33_1.mp4,['Fall'],getty-fishermen-opening-crab-pot-on-deck-of-ship-and-dumping-them-onto-for-video-id1328-33_1.mp4
+00355.mp4,flooding,getty-flooding-sluice-video-id475718061_12.mp4,['Explode'],getty-flooding-sluice-video-id475718061_12.mp4
+00356.mp4,catching,getty-men-playing-basketball-salt-lake-city-utah-usa-video-id98743956_7.mp4,['Fall'],getty-men-playing-basketball-salt-lake-city-utah-usa-video-id98743956_7.mp4
+00360.mp4,playing+videogames,yt-a4nMasXB1HA_94.mp4,['Proceed'],yt-a4nMasXB1HA_94.mp4

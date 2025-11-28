@@ -18,6 +18,7 @@ https://royalsocietypublishing.org/doi/full/10.1098/rsos.230036
 - 'folder': Folder in which the video is located in the Multi-Moments in Time datasets.
 - 'filename': Original filenames in the Multi-Moments in Time datasets.
 - 'motion_category': Motion category annotation from Hanyu et al. (2023).
+- 'source_filename_Hanyu2023_MiT2019': Filename used in Hanyu et al. (2023) based on the 2019 version of the Moments in Time dataset. Some of these videos are no longer available in later dataset releases, so this field may not match the current filename list.
 
 Please download the Multi-Moments in Time dataset, extract all files listed in the 'filename' column, and rename them to the values in 'id'. Save the renamed files in this directory.
 
